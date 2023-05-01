@@ -1,5 +1,5 @@
 # django-nuxt-template
-
+https://gitlab.com/briancaffey/django-nuxt-starter
 
 ## development
 
